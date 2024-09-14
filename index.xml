@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="JRP Scripts" commit="58a3e39ba95bd0f35846aa1f39aa4cb2574295e1">
+<index version="1" name="JRP Scripts" commit="7d9b408dfb31e5c6461fb8e527fc4689917af3af">
+  <category name="_Test">
+    <reapack name="jrp_Common Functions.lua" type="script" desc="Common Functions">
+      <version name="0.1" author="Jesse Rope" time="2024-09-14T16:01:06Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/beacomedian/JRP-scripts/raw/7d9b408dfb31e5c6461fb8e527fc4689917af3af/_Test/jrp_Common%20Functions.lua</source>
+      </version>
+    </reapack>
+  </category>
   <category name="Example">
     <reapack name="cfillion_Hello world.lua" type="script" desc="Hello world">
       <metadata>
@@ -26,7 +34,7 @@ Markdown
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 ReaPack Repository Template\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 Baby's First Reascripts\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 A template for GitHub-hosted ReaPack repositories with automated {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reapack-index"}}{\fldrslt{\ul
 reapack-index
 }}}
