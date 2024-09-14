@@ -108,16 +108,7 @@ function EnumSelectedItems()
 		return reaper.GetSelectedMediaItem(0, i) -- returns the next item each time the loop is run
 	end -- when i tries to get an item beyond the number selected, the reaper action will return nil, which will close the loop
 end
---[[
-function CheckTableContents(...)
-	-- local t = {}
-	-- for key, value in pairs(...) do 
-	-- 	t[i] = tostring(v)
-	-- end
-	-- reaper.ShowConsoleMsg(table.concat(t, " ").."\n")
-	reaper.ShowConsoleMsg(table.concat(..., " ").."\n") -- should this work by itself if we're just putting a table in here?
-end
-]]
+
 function PrintTable(tbl, indent) -- Function to print a table's contents recursively
     -- Msg("Printing Table: ",tbl)
     indent = indent or 0
