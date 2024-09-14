@@ -6,12 +6,15 @@
  * Licence: GPL v3
  * REAPER: 7.0
  * Version: 0.1
+ * noindex
 --]]
  
 --[[
  * Changelog:
  * v0.1 (2024-08-01)
 	+ Initial Release
+  * v0.2 (2024-08-01)
+  + setting no index
 --]]
 
 
