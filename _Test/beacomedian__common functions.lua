@@ -15,6 +15,7 @@
 	+ Initial Release
   * v0.2 (2024-08-01)
   + setting no index
+  -- testing prerelease change
 --]]
 
 
