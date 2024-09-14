@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="JRP Scripts" commit="3735f21a6e9874edc6372d972a4068df189181fd">
+<index version="1" name="JRP Scripts" commit="695d31c373663963a35278b82083c8d35a3539bd">
   <category name="_Test">
+    <reapack name="beacomedian__common functions.lua" type="script" desc="Common Functions">
+      <version name="0.1" author="Jesse Rope" time="2024-09-14T17:00:04Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/beacomedian/JRP-scripts/raw/695d31c373663963a35278b82083c8d35a3539bd/_Test/beacomedian__common%20functions.lua</source>
+      </version>
+    </reapack>
     <reapack name="jrp_Common Functions.lua" type="script" desc="Common Functions">
       <version name="0.1" author="Jesse Rope" time="2024-09-14T16:01:06Z">
         <changelog><![CDATA[+ Initial Release]]></changelog>
