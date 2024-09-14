@@ -1,29 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="JRo Scripts" commit="6e81d8a3584536a3857873032a216defb077e5b2">
+<index version="1" name="JRo Scripts" commit="b18b98ef7d9b91b5e0078cb6121a4a9b275654fe">
+  <category name="Functions">
+    <reapack name="jro_Common Functions.lua" type="script" desc="Jro Common Functions">
+      <metadata>
+        <link rel="website">https://www.jesserope.com</link>
+      </metadata>
+      <version name="1.0" author="Jesse Rope" time="2024-09-14T20:44:12Z">
+        <source main="main">https://github.com/beacomedian/JRo-Scripts/raw/b18b98ef7d9b91b5e0078cb6121a4a9b275654fe/Functions/jro_Common%20Functions.lua</source>
+      </version>
+    </reapack>
+  </category>
   <metadata>
     <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 Baby's First Reascripts\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 A template for GitHub-hosted ReaPack repositories with automated {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reapack-index"}}{\fldrslt{\ul
-reapack-index
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs28 JRo Scripts\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 A collection of fragile scripts created by {\field{\*\fldinst{HYPERLINK "http://www.jesserope.com"}}{\fldrslt{\ul
+Jesse Rope
 }}}
- running from GitHub Actions.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Replace the name of the repository in {\field{\*\fldinst{HYPERLINK "/index.xml"}}{\fldrslt{\ul
-index.xml
-}}}
- when using this template. This will be the name shown in ReaPack.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 \f1 <index version="1" name="Name of your repository here">\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Replace the contents of this file ({\field{\*\fldinst{HYPERLINK "/README.md"}}{\fldrslt{\ul
-README.md
-}}}
-). This will be the text shown when using ReaPack's "About this repository" feature.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Each package file is expected to begin with a metadata header. See {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reapack-index/wiki/Packaging-Documentation"}}{\fldrslt{\ul
-Packaging Documentation
-}}}
- on reapack-index's wiki.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 The URL to import this repo in ReaPack is https://raw.githubusercontent.com/beacomedian/JRP-scripts/master/index.xml.\par}
+\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Paste this URL in ReaPack to download the scripts:\par}
+{\pard \ql \f0 \sa180 \li720 \fi0 https://raw.githubusercontent.com/beacomedian/JRo-Scripts/main/index.xml\par}
 }
 ]]></description>
   </metadata>
