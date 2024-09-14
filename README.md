@@ -1,6 +1,7 @@
-# Baby's First Reascripts
+# jro_ReaScripts
 
 A collection of fragile scripts created by Jesse Rope
 https://www.jesserope.com
 
-The URL to import this repo in ReaPack is https://raw.githubusercontent.com/beacomedian/JRP-scripts/master/index.xml.
+Paste this URL in ReaPack to download scripts:
+https://raw.githubusercontent.com/beacomedian/jro-scripts/master/index.xml.
