@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="JRo Scripts" commit="f6911e95b16b69c53125c03acddd2be12c707123">
+<index version="1" name="JRo Scripts" commit="f913be09a7b9ca79e5a6e50b6db002b565457a82">
   <category name="_Test">
-    <reapack name="_test_add.txt" type="midinotenames" desc="Hello world">
+    <reapack name="jro_Test_add.lua" type="script" desc="Hello world">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -16,8 +16,8 @@ Markdown
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="cfillion" time="2024-09-14T23:30:34Z">
-        <source>https://github.com/beacomedian/JRo-Scripts/raw/f6911e95b16b69c53125c03acddd2be12c707123/_Test/_test_add.txt</source>
+      <version name="1.0" author="cfillion" time="2024-09-14T23:34:26Z">
+        <source main="main">https://github.com/beacomedian/JRo-Scripts/raw/f913be09a7b9ca79e5a6e50b6db002b565457a82/_Test/jro_Test_add.lua</source>
       </version>
     </reapack>
   </category>
