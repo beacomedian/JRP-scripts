@@ -1,4 +1,4 @@
-### JRO_ReaScripts
+### JRo Scripts
 
 A collection of fragile scripts created by [Jesse Rope](http://www.jesserope.com)
 
