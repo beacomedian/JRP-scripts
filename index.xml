@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="JRo Scripts" commit="a3acd28264c4ff258ca1ab1bcbaa2ad1c9b526e0">
+<index version="1" name="JRo Scripts" commit="3ab9bb33c1e30ba18274f0d5bc5f128d93cfaec8">
   <category name="_Test">
     <reapack name="jro_Test_add.lua" type="script" desc="Hello world">
       <metadata>
@@ -21,6 +21,9 @@ Markdown
       </version>
       <version name="1.2" author="cfillion" time="2024-09-14T23:41:52Z">
         <source main="main">https://github.com/beacomedian/JRo-Scripts/raw/a3acd28264c4ff258ca1ab1bcbaa2ad1c9b526e0/_Test/jro_Test_add.lua</source>
+      </version>
+      <version name="1.3" author="cfillion" time="2024-09-14T23:48:12Z">
+        <source main="main">https://github.com/beacomedian/JRo-Scripts/raw/3ab9bb33c1e30ba18274f0d5bc5f128d93cfaec8/_Test/jro_Test_add.lua</source>
       </version>
     </reapack>
   </category>
