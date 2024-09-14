@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="JRP Scripts" commit="695d31c373663963a35278b82083c8d35a3539bd">
+<index version="1" name="JRP Scripts" commit="6e81d8a3584536a3857873032a216defb077e5b2">
   <category name="_Test">
     <reapack name="beacomedian__common functions.lua" type="script" desc="Common Functions">
       <version name="0.1" author="Jesse Rope" time="2024-09-14T17:00:04Z">
@@ -11,27 +11,6 @@
       <version name="0.1" author="Jesse Rope" time="2024-09-14T16:01:06Z">
         <changelog><![CDATA[+ Initial Release]]></changelog>
         <source main="main">https://github.com/beacomedian/JRP-scripts/raw/7d9b408dfb31e5c6461fb8e527fc4689917af3af/_Test/jrp_Common%20Functions.lua</source>
-      </version>
-    </reapack>
-  </category>
-  <category name="Example">
-    <reapack name="cfillion_Hello world.lua" type="script" desc="Hello world">
-      <metadata>
-        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
-{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
-\widowctrl\hyphauto
-
-{\pard \ql \f0 \sa180 \li0 \fi0 This is an example of a package file. It installs itself as a ReaScript that does nothing but show "Hello World!" in REAPER's scripting console.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Packages may also include additional files specified using the @provides tag.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 This text is the documentation shown when using ReaPack's "About this package" feature. {\field{\*\fldinst{HYPERLINK "https://commonmark.org/"}}{\fldrslt{\ul
-Markdown
-}}}
- {\i formatting} is supported.\par}
-}
-]]></description>
-      </metadata>
-      <version name="1.0" author="cfillion" time="2021-01-04T23:30:32Z">
-        <source main="main">https://github.com/cfillion/reapack-repository-template/raw/58a3e39ba95bd0f35846aa1f39aa4cb2574295e1/Example/cfillion_Hello%20world.lua</source>
       </version>
     </reapack>
   </category>
