@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="JRo Scripts" commit="b18b98ef7d9b91b5e0078cb6121a4a9b275654fe">
+<index version="1" name="JRo Scripts" commit="f6911e95b16b69c53125c03acddd2be12c707123">
+  <category name="_Test">
+    <reapack name="_test_add.txt" type="midinotenames" desc="Hello world">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 This is an example of a package file. It installs itself as a ReaScript that does nothing but show "Hello World!" in REAPER's scripting console.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Packages may also include additional files specified using the @provides tag.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 This text is the documentation shown when using ReaPack's "About this package" feature. {\field{\*\fldinst{HYPERLINK "https://commonmark.org/"}}{\fldrslt{\ul
+Markdown
+}}}
+ {\i formatting} is supported.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="cfillion" time="2024-09-14T23:30:34Z">
+        <source>https://github.com/beacomedian/JRo-Scripts/raw/f6911e95b16b69c53125c03acddd2be12c707123/_Test/_test_add.txt</source>
+      </version>
+    </reapack>
+  </category>
   <category name="Functions">
     <reapack name="jro_Common Functions.lua" type="script" desc="Jro Common Functions">
       <metadata>
