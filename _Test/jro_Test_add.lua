@@ -1,6 +1,6 @@
 -- @description Hello world
 -- @author cfillion
--- @version 1.2
+-- @version 1.3
 -- @about
 --   This is an example of a package file. It installs itself as a ReaScript that
 --   does nothing but show "Hello World!" in REAPER's scripting console.
@@ -11,4 +11,5 @@
 --   feature. [Markdown](https://commonmark.org/) *formatting* is supported.
 
 reaper.ShowConsoleMsg 'Hello World!'
-local change = 2
+local change = 3
+-- manually copying this change over to see what happens
