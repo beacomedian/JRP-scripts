@@ -491,7 +491,7 @@ function GatherRegionsContentsMatchingString(is_move,search_string,paste_pos)
 	    		paste_pos = paste_pos + rgn_length -- set subsequent paste position
 	    		local num_markers_and_regions = num_markers_and_regions+1
 
-		        
+		        -- test add
 				
 		    end
 	        -- Add a marker at the original location
