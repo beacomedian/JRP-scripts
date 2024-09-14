@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="JRP Scripts" commit="7d9b408dfb31e5c6461fb8e527fc4689917af3af">
+<index version="1" name="JRP Scripts" commit="3735f21a6e9874edc6372d972a4068df189181fd">
   <category name="_Test">
     <reapack name="jrp_Common Functions.lua" type="script" desc="Common Functions">
       <version name="0.1" author="Jesse Rope" time="2024-09-14T16:01:06Z">
@@ -48,15 +48,11 @@ index.xml
 README.md
 }}}
 ). This will be the text shown when using ReaPack's "About this repository" feature.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 reapack-index looks for package files in subfolders. The folder tree represents the package categories shown in ReaPack.\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 Each package file is expected to begin with a metadata header. See {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reapack-index/wiki/Packaging-Documentation"}}{\fldrslt{\ul
 Packaging Documentation
 }}}
  on reapack-index's wiki.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 The URL to import in ReaPack is {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reapack-repository-template/raw/master/index.xml"}}{\fldrslt{\ul
-https://github.com/{\f1 <your username>}/{\f1 <repository name>}/raw/master/index.xml
-}}}
-.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The URL to import this repo in ReaPack is https://raw.githubusercontent.com/beacomedian/JRP-scripts/master/index.xml.\par}
 }
 ]]></description>
   </metadata>
