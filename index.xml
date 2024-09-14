@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="jro scripts" commit="6e81d8a3584536a3857873032a216defb077e5b2">
+<index version="1" name="JRO Scripts" commit="6e81d8a3584536a3857873032a216defb077e5b2">
   <category name="_Test">
     <reapack name="beacomedian__common functions.lua" type="script" desc="Common Functions">
       <version name="0.1" author="Jesse Rope" time="2024-09-14T17:00:04Z">
