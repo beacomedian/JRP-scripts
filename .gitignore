@@ -24,5 +24,9 @@ Thumbs.db
 
 # Local #
 #########
-/_noindex
 index.xml
+LICENSE.txt
+/_ref
+/_working
+/_test
+/_private
