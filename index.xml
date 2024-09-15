@@ -1,42 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="JRo Scripts" commit="3ab9bb33c1e30ba18274f0d5bc5f128d93cfaec8">
-  <category name="_Test">
-    <reapack name="jro_Test_add.lua" type="script" desc="Hello world">
-      <metadata>
-        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
-{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
-\widowctrl\hyphauto
-
-{\pard \ql \f0 \sa180 \li0 \fi0 This is an example of a package file. It installs itself as a ReaScript that does nothing but show "Hello World!" in REAPER's scripting console.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Packages may also include additional files specified using the @provides tag.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 This text is the documentation shown when using ReaPack's "About this package" feature. {\field{\*\fldinst{HYPERLINK "https://commonmark.org/"}}{\fldrslt{\ul
-Markdown
-}}}
- {\i formatting} is supported.\par}
-}
-]]></description>
-      </metadata>
-      <version name="1.0" author="cfillion" time="2024-09-14T23:34:26Z">
-        <source main="main">https://github.com/beacomedian/JRo-Scripts/raw/f913be09a7b9ca79e5a6e50b6db002b565457a82/_Test/jro_Test_add.lua</source>
-      </version>
-      <version name="1.2" author="cfillion" time="2024-09-14T23:41:52Z">
-        <source main="main">https://github.com/beacomedian/JRo-Scripts/raw/a3acd28264c4ff258ca1ab1bcbaa2ad1c9b526e0/_Test/jro_Test_add.lua</source>
-      </version>
-      <version name="1.3" author="cfillion" time="2024-09-14T23:48:12Z">
-        <source main="main">https://github.com/beacomedian/JRo-Scripts/raw/3ab9bb33c1e30ba18274f0d5bc5f128d93cfaec8/_Test/jro_Test_add.lua</source>
-      </version>
-    </reapack>
-  </category>
-  <category name="Functions">
-    <reapack name="jro_Common Functions.lua" type="script" desc="Jro Common Functions">
-      <metadata>
-        <link rel="website">https://www.jesserope.com</link>
-      </metadata>
-      <version name="1.0" author="Jesse Rope" time="2024-09-14T20:44:12Z">
-        <source main="main">https://github.com/beacomedian/JRo-Scripts/raw/b18b98ef7d9b91b5e0078cb6121a4a9b275654fe/Functions/jro_Common%20Functions.lua</source>
-      </version>
-    </reapack>
-  </category>
+<index version="1" name="JRo Scripts" commit="d9255233ed418977b858d8ffa023c36225335117">
   <metadata>
     <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
