@@ -1,4 +1,4 @@
-### JRo Scripts
+### JRope Scripts
 
 A collection of fragile scripts created by [Jesse Rope](http://www.jesserope.com)
 
